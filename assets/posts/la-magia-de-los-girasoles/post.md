@@ -3,7 +3,7 @@ title: "La Magia de los Girasoles"
 subtitle: "Guía para Cultivarlos y Disfrutar de su Belleza"
 author: "Jardinero Entusiasta"
 publicationDate: "2024-09-30"
-thumbnail: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeu9MjWwM5k2hjhkLwK01CzY3u6P7H0vCoxQ&s"
+thumbnail: "https://img2.rtve.es/v/6685795?w=1600&preview=1662459027318.jpg"
 slug: "la-magia-de-los-girasoles"
 ---
 
